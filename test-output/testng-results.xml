@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-23T14:17:30 IST" name="Suite" finished-at="2023-11-23T14:17:52 IST" duration-ms="21557">
+    <groups>
+    </groups>
+    <test started-at="2023-11-23T14:17:30 IST" name="Test" finished-at="2023-11-23T14:17:52 IST" duration-ms="21557">
+      <class name="com.amazon.tests.TestClass">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.amazon.tests.TestClass@72e5a8e]" started-at="2023-11-23T14:17:30 IST" name="browserSetUp" finished-at="2023-11-23T14:17:35 IST" duration-ms="4597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="signUpAndLoginPage()[pri:1, instance:com.amazon.tests.TestClass@72e5a8e]" started-at="2023-11-23T14:17:35 IST" name="signUpAndLoginPage" finished-at="2023-11-23T14:17:45 IST" duration-ms="10033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpAndLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.tests.TestClass@72e5a8e]" started-at="2023-11-23T14:17:45 IST" name="tearDown" finished-at="2023-11-23T14:17:45 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.amazon.tests.TestClass@72e5a8e]" started-at="2023-11-23T14:17:45 IST" name="browserSetUp" finished-at="2023-11-23T14:17:49 IST" duration-ms="4220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="searchItemAndAddToCart()[pri:2, instance:com.amazon.tests.TestClass@72e5a8e]" started-at="2023-11-23T14:17:49 IST" name="searchItemAndAddToCart" finished-at="2023-11-23T14:17:51 IST" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemAndAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.tests.TestClass@72e5a8e]" started-at="2023-11-23T14:17:52 IST" name="tearDown" finished-at="2023-11-23T14:17:52 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.tests.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
